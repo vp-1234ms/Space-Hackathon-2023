@@ -1,5 +1,8 @@
 # Space Explorers - Rural Electrification Impact Analysis
 
+![aa](https://github.com/vp-1234ms/Space-Hackathon-2023/assets/102847008/8bd54e59-641d-4e4f-8845-3e4a0dd333a6)
+
+
 ## Team Members:
 - Vaibhav Pawar
 - Atharva Gulkotwar
@@ -13,6 +16,9 @@ Vellore Institute of Technology
 
 ## Problem Statement:
 Nighttime light data is a powerful tool for studying city growth, economic activities, and environmental changes. The team aims to utilize this data to understand how rural electrification impacts education, agriculture, and overall economic conditions. By correlating NTL data with socio-economic factors from 2018 to 2022, the team intends to create a formula showing each state's contribution to the country's economic growth.
+
+![ab](https://github.com/vp-1234ms/Space-Hackathon-2023/assets/102847008/70e7721e-2890-438a-9d32-423ca3a27c2a)
+
 
 ---
 
@@ -49,6 +55,9 @@ Nighttime light data is a powerful tool for studying city growth, economic activ
    
 5. **Collaborative Approach:**
    - Integrated external datasets for richer insights and real-world relevance.
+
+
+![aaa](https://github.com/vp-1234ms/Space-Hackathon-2023/assets/102847008/25bf82e9-a32c-46a3-8e52-12998a316c40)
 
 ---
 
